@@ -1,16 +1,20 @@
 @media (max-width: 1024px){
 	.logo{
-	padding:5% 0px 10%;
+	padding-top:4%;
 	}	
+	
 }
+
 @media (max-width: 768px){
 	.logo{
-	padding:28% 0px 20%;
+	padding-top:9%;
 		}	
+	
 }
+
 @media (max-width: 650px){
 	.logo {
-    padding-top:4%;
+    padding-top: 14%;
     width: 410px;
 	}
 	
@@ -18,14 +22,14 @@
 
 @media (max-width: 480px){
 	.logo{
-	padding:8% 0px 20%;
+	padding-top:4%;
 	width:370px;
 	}	
 }
 
 @media (max-width: 320px){
 	.logo {
-    padding-top: 25%;
+    padding-top: 8%;
     width: 262px;
 	}
 }
